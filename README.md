@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="important-image-component" width="100" height="100"/>
+<img src="https://scontent-cgk1-2.cdninstagram.com/v/t51.2885-15/395560568_725592182771904_7655092599167281142_n.jpg?stp=dst-jpg_e35_s1080x1080&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjQxeDEwOTIuc2RyIn0&_nc_ht=scontent-cgk1-2.cdninstagram.com&_nc_cat=100&_nc_ohc=gQI8gR_KbNUAX_uv6XF&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzIyMjUzMjQzODM4NjY2MDk0Mw%3D%3D.2-ccb7-5&oh=00_AfDxA2y2nIa8sr3jT59jGQ7kilRqjF9Pps01qF4bWKB9vQ&oe=65497FFC&_nc_sid=b41fef" alt="important-image-component" width="100" height="100"/>
 
 <!--
 **skyzeki/skyzeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
