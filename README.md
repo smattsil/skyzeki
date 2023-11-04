@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="important-image-component" width="100" height="100"/>
+
 <!--
 **skyzeki/skyzeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
